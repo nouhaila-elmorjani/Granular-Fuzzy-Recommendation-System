@@ -245,5 +245,3 @@ granular_recommendation/
   note = {Fuzzy logic and granular computing-based recommendation system}
 }
 ```
-
----
