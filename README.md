@@ -238,13 +238,12 @@ granular_recommendation/
 ## Citation
 
 ```bibtex
-@software{granular_fuzzy_recommendation_2024,
+@software{granular_fuzzy_recommendation_2025,
   title = {Granular Fuzzy Recommendation System},
-  author = {Nouhaila},
-  year = {2024},
+  author = {Nouhaila El Morjani},
+  year = {2025},
   note = {Fuzzy logic and granular computing-based recommendation system}
 }
 ```
 
 ---
-**Built by:** Nouhaila
