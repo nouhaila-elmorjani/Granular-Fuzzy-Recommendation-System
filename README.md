@@ -121,16 +121,6 @@ The system uses the **MovieLens 100K** dataset:
 * pip package manager
 * ≥ 4 GB RAM
 
-### Setup
-
-```bash
-git clone https://github.com/your-username/granular_recommendation.git
-cd granular_recommendation
-pip install -r requirements.txt
-```
-
----
-
 ## Usage
 
 ### Example
